@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597622704828.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "3770725133",
+    "id" : "383455A4",
+    "lastKnownWriteTime" : 1597629228,
+    "last_content_update" : 1597629228114,
+    "path" : "C:/Users/Nico/Desktop/Cursos data science/Curso DS JH/Getting and cleaning data/Proyecto final/UCI HAR Dataset/Getting-and-Cleaning-Data-Course-Project/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "cursorPosition" : "135,0",
+        "scrollLine" : "124"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
