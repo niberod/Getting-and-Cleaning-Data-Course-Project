@@ -1,7 +1,6 @@
 library(tidyverse)
 
 
-
 ##########features#########
 #read tfeatures.txt
 features <- read_table2("features.txt", 
@@ -132,5 +131,4 @@ average_dataset<-samsung_tidy_dataset %>%
 #I save the average dataset
 average_dataset %>% 
     saveRDS("average_dataset.RDS")
-
 
