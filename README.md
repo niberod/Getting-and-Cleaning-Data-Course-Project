@@ -1,4 +1,7 @@
-Getting-and-Cleaning-Data-Course-Project
+#Getting-and-Cleaning-Data-Course-Project
+
+Script
+==================================
 
 The script used to tidy the data and calculate the averages is run_analysis.R
 
@@ -27,7 +30,8 @@ This script does the following:
 
 
 
-Datasets obtained:
+Datasets obtained
+==================================
 1) samsung_tidy_dataset.RDS - includes the following variables:
 
 [1] "subject_id"                           "Activity"                            

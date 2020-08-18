@@ -100,6 +100,7 @@ tBodyGyroJerkMean
 
 
 Datasets obtained:
+==================================
 1) samsung_tidy_dataset.RDS - includes the following variables:
 
 [1] "subject_id"                           "Activity"                            
