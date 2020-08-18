@@ -132,3 +132,6 @@ average_dataset<-samsung_tidy_dataset %>%
 average_dataset %>% 
     saveRDS("average_dataset.RDS")
 
+#FINAL OUTPUT
+average_dataset %>% 
+write.table("average_dataset.txt",row.name=FALSE ) 
